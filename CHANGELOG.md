@@ -1,3 +1,10 @@
+## [1.0.1](http://bitbucket.org/adaptavistlabs/module-aws-iam-service-user/compare/v1.0.0...v1.0.1) (2020-11-18)
+
+
+### Bug Fixes
+
+* **license:** added license document ([0b092c0](http://bitbucket.org/adaptavistlabs/module-aws-iam-service-user/commits/0b092c0c98319a67edb7b02de7d7bff6c6cb10a5))
+
 # 1.0.0 (2020-11-18)
 
 
